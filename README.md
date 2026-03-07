@@ -49,21 +49,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about cr
 - 🤝 Open to collaboration and contributing to open-source projects
 - 📍 Building production-ready web apps with clean, scalable architecture
 
----
-## 📊 My GitHub Stats
-
-<div align="center">
-
-![Nahian's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahianeasytechx&theme=radical)
-
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahianeasytechx&theme=radical)
-
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahianeasytechx&theme=radical)
-
-</div>
-
----
 
 ## 🎯 Featured Projects
 
