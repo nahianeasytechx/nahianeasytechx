@@ -58,7 +58,8 @@ A real estate platform for premium property listings and management — built wi
 
 ---
 
-### 🏡 [D-Valley](https://github.com/nahianeasytechx/D-valley)
+### [D-Valley](https://github.com/nahianeasytechx/D-valley)
+[![D-Valley Logo](https://co-working.dvalleybd.com//assets/logo-Ko6H-W9M.png)](https://github.com/nahianeasytechx/D-valley)
 A full-featured property/community web application delivering a clean and responsive user experience.
 
 `React.js` `PHP` `MySQL` `Tailwind CSS`
