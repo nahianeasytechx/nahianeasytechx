@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nahian Rafi
+# Hi there, I'm Nahian Rafi
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about creating impactful projects and continuously learning new technologies.
 
