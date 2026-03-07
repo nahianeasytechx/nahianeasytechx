@@ -2,17 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about creating impactful projects and continuously learning new technologies.
 
----
 
-## 🚀 About Me
-
-- 💻 Full-stack developer with expertise in modern web technologies
-- 🎯 Passionate about solving real-world problems through code
-- 📚 Always learning and exploring new technologies
-- 🤝 Open to collaboration and contributing to open-source projects
-- 📍 Building production-ready web apps with clean, scalable architecture
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -49,12 +39,29 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about cr
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+---
 
+## 🚀 About Me
+
+- 💻 Full-stack developer with expertise in modern web technologies
+- 🎯 Passionate about solving real-world problems through code
+- 📚 Always learning and exploring new technologies
+- 🤝 Open to collaboration and contributing to open-source projects
+- 📍 Building production-ready web apps with clean, scalable architecture
+
+---
 ## 📊 My GitHub Stats
 
-![Nahian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahianeasytechx&show_icons=true&theme=radical)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahianeasytechx&layout=compact&theme=radical)](https://github.com/nahianeasytechx)
+![Nahian's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahianeasytechx&theme=radical)
+
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahianeasytechx&theme=radical)
+
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahianeasytechx&theme=radical)
+
+</div>
 
 ---
 
@@ -63,35 +70,35 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about cr
 ### 🏠 [The Premium Homes LTD](https://github.com/Easy-Tech-SolutionX/The-Premium-Homes-LTD)
 A real estate platform for premium property listings and management — built with modern web technologies for a seamless property browsing experience.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Easy-Tech-SolutionX&repo=The-Premium-Homes-LTD&theme=radical)
+`Laravel` `PHP` `MySQL` `React` `Tailwind CSS`
 
 ---
 
 ### 🏡 [D-Valley](https://github.com/nahianeasytechx/D-valley)
 A full-featured property/community web application delivering a clean and responsive user experience.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahianeasytechx&repo=D-valley&theme=radical)
+`React.js` `PHP` `MySQL` `Tailwind CSS`
 
 ---
 
 ### 🏢 [TPHL ERP](https://github.com/Easy-Tech-SolutionX/TPHL-ERP)
 An enterprise resource planning system tailored for The Premium Homes LTD — managing internal operations, reporting, and workflows.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Easy-Tech-SolutionX&repo=TPHL-ERP&theme=radical)
+ `PHP` `MySQL` `Redis` `PHP Unit` `Bootstrap`
 
 ---
 
 ### 📊 [Rental Dashboard](https://github.com/nahianeasytechx/rental-dashboard)
 A rental management dashboard with intuitive UI for tracking properties, tenants, and payments at a glance.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahianeasytechx&repo=rental-dashboard&theme=radical)
+`React` `Tailwind CSS` 
 
 ---
 
 ### 💼 [Account Management](https://github.com/nahianeasytechx/account-management)
 A robust account management system handling user roles, permissions, and financial records.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahianeasytechx&repo=account-management&theme=radical)
+`React js` `PHP` `MySQL` `Tailwind`
 
 ---
 
@@ -100,16 +107,15 @@ A robust account management system handling user roles, permissions, and financi
 - 🔭 Building scalable full-stack web applications
 - 🌱 Deepening expertise in Next.js & TypeScript
 - 💡 Exploring system design and architecture patterns
-- 🧪 Writing cleaner, more testable backend code with Laravel & PHP Unit
+- 🧪 Writing cleaner, more testable backend code with Laravel & PHPUnit
 
 ---
 
 ## 💬 Let's Connect!
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [nahian.easytechx@gmail.com]
 - 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
-- 🐦 Twitter: [@YourHandle]
+- 🌐 Portfolio: [[My Portfolio Website](https://portfolio-website-tau-wine.vercel.app/)]
 
 ---
 
