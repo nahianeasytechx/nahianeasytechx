@@ -1,8 +1,5 @@
 # Hi there, I'm Nahian Rafi
-
 Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about creating impactful projects and continuously learning new technologies.
-
-
 
 ## 🛠️ Skills & Technologies
 
@@ -57,10 +54,10 @@ A real estate platform for premium property listings and management — built wi
 
 ---
 
-### [<a href="https://github.com/nahianeasytechx/D-valley">
-  <img src="https://co-working.dvalleybd.com/assets/logo-Ko6H-W9M.png" width="80"/>
-</a>](https://github.com/nahianeasytechx/D-valley)
-
+### [D-Valley](https://github.com/nahianeasytechx/D-valley)
+<a href="https://github.com/nahianeasytechx/D-valley">
+  <img src="https://co-working.dvalleybd.com/assets/logo-Ko6H-W9M.png" width="120"/>
+</a>
 A full-featured property/community web application delivering a clean and responsive user experience.
 
 `React.js` `PHP` `MySQL` `Tailwind CSS`
