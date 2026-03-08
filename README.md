@@ -59,7 +59,7 @@ A real estate platform for premium property listings and management — built wi
   <img src="https://co-working.dvalleybd.com/assets/logo-Ko6H-W9M.png" width="70"/>
 </a>
 A full-featured property/community web application delivering a clean and responsive user experience.
-
+<br>
 `React.js` `PHP` `MySQL` `Tailwind CSS`
 
 ---
