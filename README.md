@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer passionate about cr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -59,7 +58,9 @@ A real estate platform for premium property listings and management — built wi
 ---
 
 ### [D-Valley](https://github.com/nahianeasytechx/D-valley)
-[![D-Valley Logo](https://co-working.dvalleybd.com//assets/logo-Ko6H-W9M.png)](https://github.com/nahianeasytechx/D-valley)
+<a href="https://github.com/nahianeasytechx/D-valley">
+  <img src="https://co-working.dvalleybd.com/assets/logo-Ko6H-W9M.png" width="120"/>
+</a>
 A full-featured property/community web application delivering a clean and responsive user experience.
 
 `React.js` `PHP` `MySQL` `Tailwind CSS`
